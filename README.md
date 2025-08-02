@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCRlG1dqT2A7mA4/giphy.gif" alt="Welcome" width="200"/>
-</p>
 
 # 👋 Hi, I’m Shraddha Pandey
 
@@ -10,11 +7,7 @@
   <a href="mailto:shraddhapandey9794@gmail.com"><img src="https://img.shields.io/badge/Email-shraddhapandey9794@gmail.com-D14836?logo=gmail" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Coding Animation" width="300"/>
-</p>
 
----
 
 ## 🎨 Tech Stack & Tools
 
@@ -67,14 +60,3 @@
 ---
 
 <sup>✨ Thanks for stopping by! Feel free to star ⭐ or fork 🍴 any repository.</sup>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
